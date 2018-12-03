@@ -8,7 +8,7 @@ public class AdventureGame : MonoBehaviour {
     [SerializeField] Text textComponent;
 	// Use this for initialization
 	void Start () {
-		
+		textComponent.text = ("The story goes like this...");
 	}
 	
 	// Update is called once per frame
