@@ -11,5 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A31
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Tom agree to let Dustin play too. The 3 of you have the idea of building
+    a circuit with obstacles and you are taking turns driving the car. It is a very
+    fun afternoon. Dustin is showing you how to turn by skiding. You are glad Tom
+    is sharing his toy.
+
+'
   nextStates: []

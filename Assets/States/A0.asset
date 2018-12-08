@@ -11,5 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A0
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Welcome to this story. You will be challenged to make decisions for
+    yourself as I am telling you the story by pressing 1 or 2. Answer the questions
+    thinking of what would be the right thing to do. Good luck!
+
+
+    If you want to quit you can press the ''q'' key anytime.
+
+
+    Push "1" to continue'
+  nextStates:
+  - {fileID: 11400000, guid: 6bc3e1a0d4de64d489bf87c9e412b450, type: 2}

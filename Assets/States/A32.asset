@@ -11,5 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A32
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: Dustin is sad you don't want to share and Tom who heard the conversation
+    is not happy because he wanted Dustin to also have it. Tom tells you it is not
+    very nice. He shared with you. tThe nice thing to do is to also share with others.
+    Tom decides you played enough with it and give it to Dustin. He tells you you
+    can lay with it again when you will be ready to share.
   nextStates: []

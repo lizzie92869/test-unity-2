@@ -11,5 +11,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A21
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Now, Tom is sad because he can''t play with his birthday present. Now
+    try to imagine the situation through Tom''s eyes. What do you think really happen
+    on his point of view.
+
+    1/ I just opened my birthday present and wanted to play with my new car but "x"
+    took it and now he doesn''t want to give it back and even share it. It is my toy
+    and I even didn''t get to play with it first.
+
+    2/ I saw "x" playing with a toy and I don''t want him to have it. It is mine.'
+  nextStates:
+  - {fileID: 11400000, guid: fb44fa4afbca94e348da6bfea1a76ba8, type: 2}
+  - {fileID: 11400000, guid: aed9b16a11aed4df4bfe92f13bb35b8b, type: 2}

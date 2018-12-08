@@ -9,6 +9,14 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
-  m_Name: StartingState
+  m_Name: A1
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'It''s Tom''s birthday. He received a control remote car and as he is
+    removing the wrapping paper, you really want to play with it. What do you do?
+
+    1/ Ask him politely if you can play with his toy
+
+    2/ Start playing with it'
+  nextStates:
+  - {fileID: 11400000, guid: 434afc19e057e4383b7f2b5842379669, type: 2}
+  - {fileID: 11400000, guid: 8322cf44c59d14683bb8bce112cbc015, type: 2}

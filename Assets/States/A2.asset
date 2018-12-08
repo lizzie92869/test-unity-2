@@ -11,5 +11,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A2
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'Tom is frustrated. He wanted to play with his new toy. What should you
+    do?
+
+    1/Apologize, give him back the toy and ask him if you could play with it after.
+
+    2/Say you saw it first and he should find another toy to play with.'
+  nextStates:
+  - {fileID: 11400000, guid: 434afc19e057e4383b7f2b5842379669, type: 2}
+  - {fileID: 11400000, guid: f332d2b79788e40eb96363e65ac23535, type: 2}

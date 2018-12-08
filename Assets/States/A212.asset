@@ -11,5 +11,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A212
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: This is not what Tom meant. He only wanted to discover his new toy but
+    couldn't because you had it. How would you like for Tom to take the superheroes
+    coloring book you came with and start coloring the picture you wanted to work
+    on next? It wouldn't feel good, would it? It is always nice to ask before to borrow
+    something.
   nextStates: []

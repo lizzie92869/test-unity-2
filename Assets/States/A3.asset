@@ -11,5 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ea2d0e2a255d42ff8df2c42c685c662, type: 3}
   m_Name: A3
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: "Tom agree to let you play with it. As you start playing with it, Dustin
+    tells you he would like to play with it too and he ask you politely if you could
+    let him play with you. \nWhat should you do?\n1/ Tell him you are already playing
+    with it and he should look for another toy.\n2/ Tell him you can take turn, and
+    if it is ok with Tom, he will have it in 5 min."
+  nextStates:
+  - {fileID: 11400000, guid: 20f493055424f4eab8a29978fa243d75, type: 2}
+  - {fileID: 11400000, guid: 29abf23c09dbf41fa900f5e7b08d1941, type: 2}
